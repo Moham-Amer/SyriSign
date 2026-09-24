@@ -22,7 +22,7 @@ Across all three, generative approaches showed real promise for representing sig
 
 ## Recognition
 - Preprint: [arxiv.org/abs/2603.29219](https://arxiv.org/abs/2603.29219)
-- Top 6 finalist, IEEE Jordan Section Contest
+- Top 6 finalist, IEEE Jordan Section Contest 2026
 
 ## Authors
 Mohammad Amer Khalil, Raghad Nahas, Ahmad Nassar, Khloud Al Jallad — Arab International University
