@@ -19,7 +19,6 @@ We evaluated the dataset on three deep learning architectures:
 
 Across all three, generative approaches showed real promise for representing signs — but the dataset's size constrained how well the models generalized. That's an expected, honest limitation for a first-of-its-kind, low-resource dataset, and part of the motivation for releasing it publicly as a benchmark others can build on.
 
-*(Add specific metrics here if you have them from the thesis — this is written from the abstract, not the full results tables.)*
 
 ## Recognition
 - Preprint: [arxiv.org/abs/2603.29219](https://arxiv.org/abs/2603.29219)
