@@ -12,8 +12,8 @@ SyriSign introduces a parallel corpus of 1,500 video samples spanning 150 unique
 
 We evaluated the dataset on three deep learning architectures:
 - **MotionCLIP** — semantic motion generation
-- **T2M-GPT** (Arabic-adapted) — text-conditioned motion synthesis
-- **SignCLIP** (Arabic-adapted) — bilingual embedding alignment
+- **T2M-GPT**  — text-conditioned motion synthesis
+- **SignCLIP** — bilingual embedding alignment
 
 ## Results
 
